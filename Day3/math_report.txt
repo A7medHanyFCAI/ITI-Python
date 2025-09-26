@@ -1,0 +1,18 @@
+Number: 20.0
+  Floor: 20
+  Ceil: 20
+  Square Root: 4.47
+  Area of Circle (r=20.0): 1256.64
+----------------------------------------
+Number: 50.0
+  Floor: 50
+  Ceil: 50
+  Square Root: 7.07
+  Area of Circle (r=50.0): 7853.98
+----------------------------------------
+Number: 100.0
+  Floor: 100
+  Ceil: 100
+  Square Root: 10.00
+  Area of Circle (r=100.0): 31415.93
+----------------------------------------

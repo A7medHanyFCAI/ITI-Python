@@ -1,0 +1,30 @@
+Number: 1.0
+  Floor: 1
+  Ceil: 1
+  Square Root: 1.00
+  Area of Circle (r=1.0): 3.14
+----------------------------------------
+Number: 2.0
+  Floor: 2
+  Ceil: 2
+  Square Root: 1.41
+  Area of Circle (r=2.0): 12.57
+----------------------------------------
+Number: 3.0
+  Floor: 3
+  Ceil: 3
+  Square Root: 1.73
+  Area of Circle (r=3.0): 28.27
+----------------------------------------
+Number: 5.0
+  Floor: 5
+  Ceil: 5
+  Square Root: 2.24
+  Area of Circle (r=5.0): 78.54
+----------------------------------------
+Number: 6.0
+  Floor: 6
+  Ceil: 6
+  Square Root: 2.45
+  Area of Circle (r=6.0): 113.10
+----------------------------------------

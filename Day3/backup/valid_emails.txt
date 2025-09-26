@@ -1,0 +1,5 @@
+alice_smith@domain.org
+help@service.net
+jane.doe123@website.co.uk
+john.doe@example.com
+mike@company.com
